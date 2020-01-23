@@ -32,8 +32,8 @@ class GamblingController {
            
            let dice2 = Math.floor(Math.random() * 6) + 1
            let total = dice1 + dice2
-           var reward = '';
-           var message = ''
+           let reward = '';
+           let message = ''
           
 
        
